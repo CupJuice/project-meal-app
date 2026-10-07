@@ -13,5 +13,5 @@
 //         Realtime Database -> Rules -> ตั้งเป็น auth.uid != null (อ่าน/เขียนได้เฉพาะผู้ที่ login แล้ว)
 // ==========================================================================
 
-export const FIREBASE_WEB_API_KEY = "AIzaSyCV9rsd083MNFS04agxt0bXD7d_OKr0o8Y";
-export const FIREBASE_DB_URL = "https://my-meals-app-98a36-default-rtdb.firebaseio.com";
+export const FIREBASE_WEB_API_KEY = "";
+export const FIREBASE_DB_URL = "";
