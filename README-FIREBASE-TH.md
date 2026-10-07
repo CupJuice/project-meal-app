@@ -47,7 +47,7 @@ Build → Realtime Database → Create Database → เลือก region → *
 
 ```js
 export const FIREBASE_WEB_API_KEY = "AIzaSy........................";
-export const FIREBASE_DB_URL = "https://my-meals-app-default-rtdb.firebaseio.com";
+export const FIREBASE_DB_URL = "https://...........................";
 ```
 
 ### 5) ตั้งค่า Rules ให้เข้าถึงได้เฉพาะผู้ที่ login แล้ว
