@@ -19,7 +19,7 @@
       "package": "com.mark.mealapp",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#F58A1F"
       }
     },
     "web": {
